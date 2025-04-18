@@ -1,0 +1,1 @@
+This project will follow along with "The Odin Project" HTML recipes project 
