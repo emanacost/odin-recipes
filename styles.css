@@ -3,12 +3,22 @@ body {
     background-color: azure;
 }
 
-.title {
+.title-group {
     text-align: center;
     background-color: darkgrey;
-    color:whitesmoke;
     margin: -15px;
     border-bottom: solid darkblue 5px;
+}
+
+.title-group.title {
+    color:whitesmoke;
+}
+
+.title-group.blue-skull {
+    width: 32px;
+    height: 32px;
+    margin: 5px 0px -5px 0px;
+    border: 0px
 }
 
 .link-group {
