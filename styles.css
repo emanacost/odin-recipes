@@ -10,7 +10,8 @@ body {
     border-bottom: solid darkblue 5px;
 }
 
-.list {
+.link {
     font-size:large;
     font-family: monospace;
+    text-align: center;
 }
