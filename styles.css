@@ -22,7 +22,14 @@ body {
 }
 
 #gif1 {
-    width: 110px;
-    height: auto;
-    margin-right: 400px;
+    width: auto;
+    height: 195.5px;
+    margin-right: 350px;
+}
+
+#gif2 {
+    width: auto;
+    height: 195.5px;
+    margin-left: 480px;
+    margin-top: -37px;
 }
