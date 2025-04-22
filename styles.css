@@ -53,3 +53,8 @@ body {
 .para-header.page-title {
     text-align: center;
 }
+
+.recipe-image {
+    display: block;
+    margin: auto;
+}
